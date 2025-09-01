@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>my Resume</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<style>
+     body {
+     font-family: 'Segoe UI', sans-serif;
+      background: #f9f9f9;
+      color: #333;
+      margin: 0;
+      padding: 0;
+     }
+      .me{
+       border-radius: 50%;
+       width:150px;
+       height:150px;
+       margin-top: 20px;
+    }
+    .line{
+       width:600px;
+        height:2px;
+        background-color: black;
+        margin-left: 320px;
+      
+    }
+      .container {
+        background: white;
+        margin-top: 50px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);;  
+         max-width: 950px;
+         padding: 20px;
+      }
+    
+    
+      .left{
+        width:300px;
+        background-color: grey;
+        border-radius: 7px;
+        height:950px;
+      }
+       .name{
+        align-items: center;
+        margin-left: 450px;
+        margin-top: -120px;
+       }
+       .right {
+       padding: 20px;
+    }
+       /* .right ul {
+      list-style-type: disc;
+      padding-left: 20px;
+       } */
+        @media screen and (max-width: 768px) {
+      .container {
+        flex-direction: column;
+        padding: 15px;
+      }
+
+      .left, .right {
+        max-width: 100%;
+        flex: 100%;
+      }
+
+      .line {
+        width: 90%;
+      }
+
+      .name {
+        text-align: center;
+      }
+
+      .me {
+        margin: 0 auto;
+      }
+    }
+      
+</style>  
+
+</head>
+  <body>
+  <div class="container">
+     <div class="left">
+        <img src="C:\Users\shres\Downloads\IMG_20250626_235845.jpg" class="me" style="margin-left: 35px " >
+      <div>
+         <h2 class="name display-4" >Dudekula Sreya</h2>
+         <div class="line"></div>
+      </div>
+        <div><h2 style="margin-left: 35px"> contact</h2></div>
+        <ul style="list-style-type: none">
+               <li>  
+                <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" viewBox="0 0 24 24">
+                  <path d="M6.62 10.79a15.093 15.093 0 0 0 6.59 6.59l2.2-2.2a1 1 0 0 1 1.05-.24c1.12.37 2.33.57 3.54.57a1 1 0 0 1 1 1v3.5a1 1 0 0 1-1 1C10.61 22 2 13.39 2 3.5A1 1 0 0 1 3 2.5H6.5a1 1 0 0 1 1 1c0 1.21.2 2.42.57 3.54a1 1 0 0 1-.25 1.05l-2.2 2.2z"/>
+                </svg>+91 6301879463</li>
+               <li>
+                <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" viewBox="0 0 24 24">
+                  <path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4-8 5-8-5V6l8 5 8-5v2z"/>
+                </svg>Shreshree1234@gmail.com</li>
+               <li>
+                <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" viewBox="0 0 24 24">
+                  <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5S10.62 6.5 12 6.5s2.5 1.12 2.5 2.5S13.38 11.5 12 11.5z"/>
+                </svg>Andra Pradesh,proddatur</li>
+              </ul>
+        <div >
+            <h2 style="margin-left: 35px ">Summary</h2>
+            <p  style="margin-left: 35px">passinate web developer with a degree in software engeneering and hands-on experience in developing dynamic web applications efficent and knowledgeable coder with skills in Html,Css and programming language</p>
+        </div>
+        <div style="margin-left: 35px">
+            <h2>skills</h2>
+            <h6>Programming languages</h6>
+                <ul>
+                    <li>C langugae</li>
+                    <li>python</li>
+                </ul>
+            <h6>Technologies</h6>
+                <ul>
+                    <li>Html</li>
+                    <li>Css</li>
+                    <li>Basics of SQl</li>
+                </ul>
+        </div>
+     </div>
+        <div class="right" style="margin-left: 330px">
+           <h2 style="margin-top:-750px">Education and Training</h2>
+           <h6>B.Tech,Cse</h6>
+             <ul>
+              <li>Sai rajeshwari institute of Technology</li>
+              <li>proddatur</li>
+             </ul>
+           
+             <h6>Intermediate</h6>
+              <ul>
+               <li>Srividya Junior College</li>
+                <li>proddatur</li>
+              </ul>
+            
+              <h6>SSC</h6>
+              <ul>
+               <li>Gautham high school</li>
+                <li>proddatur</li>
+              </ul>
+           <div>
+              <h2>Languages</h2>
+               <ul>
+                 <li>Telugu</li>
+                  <li>Hindi</li>
+                  <li>English</li>
+                </ul>
+              </div>
+            <div>
+            <h2>hobbies</h2>
+            <ul>
+             <li>listening to music</li>
+             <li>learning new thins</li>
+           </ul>
+           </div>
+            <div>
+            <h2>certificates</h2>
+            <ul>
+             <li>Full stack web development by Udemy</li>
+             <li>Python by Udemy</li>
+             <li>C language</li>
+           </ul>
+           </div>
+        </div>
+
+     </div>
+
+
+
+
+      
+    </body>
+</html>
